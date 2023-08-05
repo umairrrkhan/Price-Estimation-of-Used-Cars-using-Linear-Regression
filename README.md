@@ -1,6 +1,4 @@
 # Price Estimation of Used Cars using Linear Regression
- 
-# Price Estimation of Used Cars using Linear Regression
 
 ## Introduction
 This project aims to estimate the price of used cars using the Linear Regression algorithm. Linear Regression is a popular supervised machine learning technique used for predicting continuous target variables, making it suitable for predicting the price of used cars in this case.
@@ -35,4 +33,13 @@ The following Python libraries were used in this project:
 
 2. Clone the repository containing the project code.
 
-3. Navigate to the project directory and install the required libraries using the following command:
+## Results
+The project provides insights into the key factors affecting the prices of used cars and offers a price estimation model using Linear Regression and Lasso Regression. The evaluation metrics help assess the model's accuracy and provide an understanding of its performance.
+
+## Conclusion
+The Price Estimation of Used Cars using Linear Regression project offers a practical example of implementing a machine learning model for predicting car prices based on historical data. The project can be extended to include other regression algorithms or more advanced techniques to further enhance the model's performance.
+
+Feel free to explore the code, experiment with different algorithms, and contribute to the project's improvement. Happy coding!
+
+## Contact 
+- email : umairh1819@gmail.com
