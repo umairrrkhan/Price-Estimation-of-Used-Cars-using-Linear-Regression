@@ -4,7 +4,7 @@
 This project aims to estimate the price of used cars using the Linear Regression algorithm. Linear Regression is a popular supervised machine learning technique used for predicting continuous target variables, making it suitable for predicting the price of used cars in this case.
 
 ## Dataset
-The project uses a dataset containing information about various used cars, including features like make, model, year, mileage, fuel type, transmission, etc. The dataset is stored in a CSV file named "used_cars_dataset.csv."
+The project uses a dataset containing information about various used cars, including features like make, model, year, mileage, fuel type, transmission, etc. The dataset is stored in a CSV file named "cars_data.csv."
 
 ## Libraries Used
 The following Python libraries were used in this project:
